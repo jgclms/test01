@@ -1,2 +1,3 @@
 Hello, I am a new file.
 "one fish, two fish, read fish, blue fish."
+to do: add mock blue fish iterator
